@@ -1,2 +1,2 @@
 # myFirstRep
-just to opractice
+just to practice
